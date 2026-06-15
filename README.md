@@ -14,7 +14,12 @@ Build the image:
 docker build -t python-crash-course .
 ```
 
-Run the container:
+Run a specific exercise:
+```bash
+./run.sh python3 part1/ch2/exercise_2_3.py
+```
+
+Or open an interactive shell in the container:
 ```bash
 ./run.sh
 ```
