@@ -26,7 +26,7 @@ Using the `hello_world.py` file shared in the chapter,
 make typos that both generate errors and ones which don't.
 
 **Notes:**
-[Observations, surprises, errors encountered, or insights]
+No surprises with typos, but getting the local server connected to VS Code, then adding a non-root user to the docker image was something unexpected. I'd created hello_world.py from within the container which had the effect of the file being created by the root user, saving to it from VS Code encountered an unintended snag after that, which ended in adding to the Dockerfile and rebuilding it.
 
 ---
 
