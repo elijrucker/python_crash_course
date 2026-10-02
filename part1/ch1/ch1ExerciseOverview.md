@@ -30,6 +30,15 @@ No surprises with typos, but getting the local server connected to VS Code, then
 
 ---
 
+### Exercise [1]-[3] — Infinite Skills
+
+**Description:**
+If you had infinite programming skills, what would you build?
+
+**Notes:**
+I struggle to enter into a mindset where I can determine 'this would be a good idea to build, this is what I'm missing', because I tend to satisfice with the tools I readily have access to.
+
 ## Chapter Notes
 
-[Any broader observations about the chapter as a whole — patterns noticed, concepts that clicked late, anything worth flagging for the cumulative review]
+- 1-3 suggest keeping an 'ideas' notebook, which I have already in my 'think' notebook.
+- Completing the exercises as the text advised was very straightforward, the challenge was incorporating the additional infra deliverables I'd set for myself.
