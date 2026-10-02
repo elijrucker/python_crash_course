@@ -20,13 +20,16 @@ Assign a message to a variable, then print that message
 
 ---
 
-### Exercise [2]-[2] — [Exercise Name]
+### Exercise 2-2 — Simple Messages
 
 **Description:**
-[Brief description of what the exercise asks]
+
+- Assign a message to a variable, and print that message
+- Then change the value of the variable to a new message, print the new message
 
 **Notes:**
-[Observations, surprises, errors encountered, or insights]
+
+- This exercise was also very straightforward, demonstrating variable poiner reassignment to new/different string objects
 
 ---
 
