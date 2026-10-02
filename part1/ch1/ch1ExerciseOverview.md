@@ -2,7 +2,7 @@
 
 **Chapter Title:** Getting Started
 **Date Started:** 2026-09-30
-**Date Completed:** [YYYY-MM-DD]
+**Date Completed:** 2026-10-01
 
 ---
 
