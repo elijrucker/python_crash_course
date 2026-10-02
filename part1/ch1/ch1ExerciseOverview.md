@@ -1,4 +1,4 @@
-# Python Crash Course — Chapter [1] Try It Yourself
+# Python Crash Course — Chapter 1 Try It Yourself
 
 **Chapter Title:** Getting Started
 **Date Started:** 2026-09-30
@@ -8,7 +8,7 @@
 
 ## Exercises
 
-### Exercise [1]-[1] — python.org
+### Exercise 1-1 — python.org
 
 **Description:**
 Explore the Python home page
@@ -19,7 +19,7 @@ very active and diverse
 
 ---
 
-### Exercise [1]-[2] — Hello World Typos
+### Exercise 1-2 — Hello World Typos
 
 **Description:**
 Using the `hello_world.py` file shared in the chapter,
@@ -30,7 +30,7 @@ No surprises with typos, but getting the local server connected to VS Code, then
 
 ---
 
-### Exercise [1]-[3] — Infinite Skills
+### Exercise 1-3 — Infinite Skills
 
 **Description:**
 If you had infinite programming skills, what would you build?
