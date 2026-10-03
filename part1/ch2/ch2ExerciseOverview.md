@@ -57,13 +57,18 @@ print that person's name in lowercase, uppercase, and title case.
 
 ---
 
-### Exercise 2-5 — []
+### Exercise 2-5 — Famous Quote
 
 **Description:**
+Find a quote from a famous person,
+print the quote and the name of the author.
+Output should utilize an f string for the author and quote variables.
 
-- **Notes:**
+**Notes:**
 
-  ***
+- This exercise allowed me to introduce a (title) method, and escape characters (\") into an f-string.
+
+---
 
 ### Exercise 2-6 — []
 
