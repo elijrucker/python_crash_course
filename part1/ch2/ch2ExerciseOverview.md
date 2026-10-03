@@ -33,13 +33,17 @@ Assign a message to a variable, then print that message
 
 ---
 
-### Exercise 2-3 — []
+### Exercise 2-3 — Personal Message
 
 **Description:**
+Use a variable to represent a person's name,
+print a message to that person.
 
-- **Notes:**
+**Notes:**
 
-  ***
+- Relatively straightforward, although I did have to page back to confirm proper f-string syntax
+
+---
 
 ### Exercise 2-4 — []
 
