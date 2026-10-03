@@ -45,13 +45,17 @@ print a message to that person.
 
 ---
 
-### Exercise 2-4 — []
+### Exercise 2-4 — Name Cases
 
 **Description:**
+Use a variable to represent a person's name,
+print that person's name in lowercase, uppercase, and title case.
 
-- **Notes:**
+**Notes:**
 
-  ***
+- This is my first interaction with Python methods; much easier to use out-of-the-box than C, Java, or any other language I have experience with, other than JS perhaps
+
+---
 
 ### Exercise 2-5 — []
 
