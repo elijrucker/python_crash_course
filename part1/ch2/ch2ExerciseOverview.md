@@ -33,6 +33,46 @@ Assign a message to a variable, then print that message
 
 ---
 
+### Exercise 2-3 — []
+
+**Description:**
+
+- **Notes:**
+
+  ***
+
+### Exercise 2-4 — []
+
+**Description:**
+
+- **Notes:**
+
+  ***
+
+### Exercise 2-5 — []
+
+**Description:**
+
+- **Notes:**
+
+  ***
+
+### Exercise 2-6 — []
+
+**Description:**
+
+- **Notes:**
+
+  ***
+
+### Exercise 2-7 — []
+
+**Description:**
+
+- **Notes:**
+
+  ***
+
 ## Chapter Notes
 
 [Any broader observations about the chapter as a whole — patterns noticed, concepts that clicked late, anything worth flagging for the cumulative review]
