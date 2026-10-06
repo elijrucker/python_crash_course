@@ -110,8 +110,12 @@ Write addition, subtraction, multiplication, and division operations that all re
 ### Exercise 2-9 — Favorite Number
 
 **Description:**
+Use a variable to represent your favorite number,
+print a message with that variable.
 
 **Notes:**
+
+- This exercise is doesn't present anything I haven't already used in previous exercises
 
 ---
 
