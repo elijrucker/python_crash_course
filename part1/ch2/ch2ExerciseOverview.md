@@ -70,13 +70,19 @@ Output should utilize an f string for the author and quote variables.
 
 ---
 
-### Exercise 2-6 — []
+### Exercise 2-6 — Famous Quote 2
 
 **Description:**
+Repeat exercise 2-5,
+represent the famous person's name with a varible,
+Store the message as a variable and print the variable.
 
-- **Notes:**
+**Notes:**
 
-  ***
+- Because I stored both quote and person as variables in 2-5, most of 2-6 was already completed
+- This is my first experience saving an f-string as a variable.
+
+---
 
 ### Exercise 2-7 — []
 
