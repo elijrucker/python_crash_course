@@ -99,8 +99,11 @@ Use a variable to represent a name, including whitespace before and after, also 
 ### Exercise 2-8 — Number Eight
 
 **Description:**
+Write addition, subtraction, multiplication, and division operations that all result in the number 8.
 
 **Notes:**
+- Addition, subtraction, and multiplication all behave as ints
+- Division defaults to float
 
 ---
 
