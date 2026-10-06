@@ -84,13 +84,17 @@ Store the message as a variable and print the variable.
 
 ---
 
-### Exercise 2-7 — []
+### Exercise 2-7 — Stripping Names
 
 **Description:**
+Use a variable to represent a name, including whitespace before and after, also use "\t", and "\n" at least once.
 
-- **Notes:**
+**Notes:**
 
-  ***
+- I'd initially attempted to call the various strip methods without parentheses, which caused errors
+- Using all forms of strip(), special characters such as "\n", and "\t" are retained
+
+---
 
 ## Chapter Notes
 
