@@ -2,7 +2,7 @@
 
 **Chapter Title:** Variables and Simple Data Types
 **Date Started:** 2026-10-01
-**Date Completed:** [YYYY-MM-DD]
+**Date Completed:** 2026-10-05
 
 ---
 
@@ -102,6 +102,7 @@ Use a variable to represent a name, including whitespace before and after, also 
 Write addition, subtraction, multiplication, and division operations that all result in the number 8.
 
 **Notes:**
+
 - Addition, subtraction, and multiplication all behave as ints
 - Division defaults to float
 
@@ -121,4 +122,4 @@ print a message with that variable.
 
 ## Chapter Notes
 
-[Any broader observations about the chapter as a whole — patterns noticed, concepts that clicked late, anything worth flagging for the cumulative review]
+- Python, as a whole, isn't nearly as verbose as even JS.
