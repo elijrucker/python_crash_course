@@ -96,6 +96,22 @@ Use a variable to represent a name, including whitespace before and after, also 
 
 ---
 
+### Exercise 2-8 — Number Eight
+
+**Description:**
+
+**Notes:**
+
+---
+
+### Exercise 2-9 — Favorite Number
+
+**Description:**
+
+**Notes:**
+
+---
+
 ## Chapter Notes
 
 [Any broader observations about the chapter as a whole — patterns noticed, concepts that clicked late, anything worth flagging for the cumulative review]
