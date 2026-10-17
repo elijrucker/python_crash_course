@@ -43,13 +43,14 @@ print statements about these items
 
 ---
 
-### Exercise 3-4 — [Exercise Name]
+### Exercise 3-4 — Guest List
 
 **Description:**
-[Brief description of what the exercise asks]
+Create a list of at least three people,
+invite each of them to dinner
 
 **Notes:**
-[Observations, surprises, errors encountered, or insights]
+- This largely repeats concepts applied either by the textbook, or myself, nothing new here, just practice
 
 ---
 
