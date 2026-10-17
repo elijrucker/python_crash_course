@@ -27,7 +27,7 @@ Using the list from exercise 3-1,
 update the functionality to also print a message with each name
 
 **Notes:**
-[Observations, surprises, errors encountered, or insights]
+- F-string syntax is also comparatively easy over java, and even JS.
 
 ---
 
