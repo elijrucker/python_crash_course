@@ -15,7 +15,8 @@ Store the names of a few of your friends in a list called `names`,
 print each person's name by accessing each element in the list
 
 **Notes:**
-[Observations, surprises, errors encountered, or insights]
+- I'd confused the syntax for python with the more verbose syntax for java
+- Python makes looping and printing exceedingly easy
 
 ---
 
