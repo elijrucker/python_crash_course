@@ -31,13 +31,15 @@ update the functionality to also print a message with each name
 
 ---
 
-### Exercise 3-3 — [Exercise Name]
+### Exercise 3-3 — Your Own List
 
 **Description:**
-[Brief description of what the exercise asks]
+Create a list of transportation, 
+print statements about these items
 
 **Notes:**
-[Observations, surprises, errors encountered, or insights]
+- Including the use of zip() to combine data from two related strings was more of a challenge than the exercise itself
+- I'd forgot to include the parantheses in the call `motorcycle.title` before running the script, and had to debug in real time when the console returned `<built-in method title of str object at memory_address>`
 
 ---
 
