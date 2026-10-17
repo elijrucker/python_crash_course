@@ -20,10 +20,11 @@ print each person's name by accessing each element in the list
 
 ---
 
-### Exercise 3-2 — [Exercise Name]
+### Exercise 3-2 — Greetings
 
 **Description:**
-[Brief description of what the exercise asks]
+Using the list from exercise 3-1,
+update the functionality to also print a message with each name
 
 **Notes:**
 [Observations, surprises, errors encountered, or insights]
