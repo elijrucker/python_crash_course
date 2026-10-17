@@ -8,10 +8,11 @@
 
 ## Exercises
 
-### Exercise 3-1 — [Exercise Name]
+### Exercise 3-1 — Names
 
 **Description:**
-[Brief description of what the exercise asks]
+Store the names of a few of your friends in a list called `names`,
+print each person's name by accessing each element in the list
 
 **Notes:**
 [Observations, surprises, errors encountered, or insights]
