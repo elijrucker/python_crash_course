@@ -54,13 +54,18 @@ invite each of them to dinner
 
 ---
 
-### Exercise 3-5 — [Exercise Name]
+### Exercise 3-5 — Changing Guest List
 
 **Description:**
-[Brief description of what the exercise asks]
+Start with program from 3-4,
+add a print() call at the end of your program stating the name of the guest who can't make it,
+modify the list after the first print() call (replace single guest name),
+call print() again after list has been updated
 
 **Notes:**
-[Observations, surprises, errors encountered, or insights]
+- Formatting the output so it was legible within the console required more thought than the original logic from `guest_list.py`
+- After having copied the for loop, I realized it would be a good function candidate under DRY
+- A refactor opportunity would be to refrain from printing the entire list, and only printing changed values comparing it against the original list, but that's well beyond the scope of this exercise
 
 ---
 
